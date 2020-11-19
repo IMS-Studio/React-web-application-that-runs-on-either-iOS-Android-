@@ -1,4 +1,4 @@
-# Sample Demo Project
+# View completed project at http://www.s-it-e.com/project/build/
 
 ## Overview
 
